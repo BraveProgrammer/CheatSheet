@@ -1,6 +1,6 @@
 ![Python Logo](python.jpg)
 
-**Python Cheat Sheet**
+# **Python Cheat Sheet**
 
 **Requirements:**  
 &nbsp;&nbsp;&nbsp;&nbsp;1. Knowledge of a programming language
