@@ -10,6 +10,8 @@
 ```python
 num = 12
 name = "brave"
+isMan = True     # 1
+isWoman = False  # 0
 list = [1, 23, "Haha"]
 dict = {"Brave": 15, "John": 20}
 tuple = (20, 10, "Hello!",)
@@ -46,6 +48,8 @@ num * 5    # multiply with 5
 num / 2    # division with 2
 num % 4    # division with 4 and return remaining
 num ** 2   # power with 2
+num < 10   # does 10 bigger than num?
+num > 5    # does num is bigger than 5?
 num = 100  # equal with 100
 ```
 
@@ -100,6 +104,21 @@ try:
 	raise SyntaxError
 except SyntaxError:
 	print("This is a Syntax Error!!!")
+```
+
+# Classes
+
+```python
+class MyClass(InheritanceClass):
+	def __init__(self, name):
+		# This method runs when an object creates from this class
+		self.name = name
+		...
+	def sayhello(self):
+		print(f"Hello {name}!")
+
+myobj = MyClass(name="brave")
+myobj.sayhello()
 ```
 
 # Attachment
@@ -193,3 +212,17 @@ dict(name="Brave", lang="FA")
 # return the length of given string
 len("Python Language!")
 ```
+
+## Magic Methods
+
+| Method    | Description                 |
+| :-------: | :-------------------------: |
+| __init__  | Run when initialize         |
+| __new__   | Run when new object creates |
+| __del__   | Destructor method           |
+| __str__   | Called with str() func      |
+| __int__   | Called with int() func      |
+| __float__ | Called with float() func    |
+| __add__   | Called with + operator      |
+| __sub__   | Called with - operator      |
+| __mul__   | Called with * operator      |
