@@ -4,7 +4,7 @@
 
 This is a repo for who learned programming before and now wants to learn more languages.
 
-# Programming Languages
+# Courses
 
 1. Python
 2. HTML
