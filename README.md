@@ -8,6 +8,7 @@ This is a repo for who learned programming before and now wants to learn more la
 
 1. Python
 2. HTML
+3. BASH
 
 # Contribute
 
