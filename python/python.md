@@ -1,5 +1,7 @@
 ![Python Logo](python.jpg)
 
+**Created By _Brave Programmer_**
+
 # **Python Cheat Sheet**
 
 **Requirements:**  
@@ -226,3 +228,5 @@ len("Python Language!")
 | __add__   | Called with + operator      |
 | __sub__   | Called with - operator      |
 | __mul__   | Called with * operator      |
+
+**Created By _Brave Programmer_**

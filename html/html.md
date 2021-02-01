@@ -1,5 +1,7 @@
 ![HTML Logo](html.jpg)
 
+**Created By _Brave Programmer_**
+
 # **HTML Cheat Sheet**
 
 **Requirements:**  

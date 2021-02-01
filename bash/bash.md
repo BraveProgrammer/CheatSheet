@@ -1,5 +1,7 @@
 ![BASH Logo](bash.jpg)
 
+**Created By _Brave Programmer_**
+
 # **BASH Cheat Sheet**
 
 **Requirements:**  

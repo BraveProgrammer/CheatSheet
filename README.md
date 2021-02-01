@@ -2,13 +2,14 @@
 
 # **Cheat Sheet**
 
-This is a repo for who learned programming before and now wants to learn more languages.
+This is a repo for who learned programming before and now wants to learn more languages and other things.
 
 # Courses
 
 1. Python
 2. HTML
 3. BASH
+4. Markdown
 
 # Contribute
 
