@@ -47,3 +47,12 @@ chmod g-w index.html
 chmod 755 # User can read, write, and execute. group members and other users can read and execute, but cannot write.
 chmod +t temp
 ```
+
+## Change Owner
+
+```bash
+chown user1:users file1
+ls -l file1 # -rw-r--r--  1 user1 users    0 Feb  5 12:40  file1
+```
+
+**Created By _Brave Programmer_**

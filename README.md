@@ -10,6 +10,9 @@ This is a repo for who learned programming before and now wants to learn more la
 2. HTML
 3. BASH
 4. Markdown
+5. C++
+6. PHP
+7. Ruby
 
 # Contribute
 
